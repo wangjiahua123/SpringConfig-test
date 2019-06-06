@@ -1,7 +1,7 @@
 eureka:
-  client"
+  client:
     serviceurl:
       defaultZone:    "http://localhost:8761/eureka/"
-hello:                "wangjiahua"
+hello:                wangjiahua
 server:
    port:              1996
